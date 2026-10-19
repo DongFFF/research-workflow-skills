@@ -4,6 +4,12 @@
 
 [English](README.md)
 
+三个技能现已分别发布为独立仓库，各自提供安装、测试和发布包：
+
+- [学术绘图](https://github.com/DongFFF/publication-chart-skill)
+- [Zotero 文献工作流](https://github.com/DongFFF/zotero-docx-reference-workflow)
+- [课题申报与图文设计](https://github.com/DongFFF/grant-proposal-workflow)
+
 ## 包含内容
 
 | 技能 | 适用任务 | 关键特点 |

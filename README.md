@@ -4,6 +4,12 @@ Reusable agent skills for research figures, Zotero-linked Word manuscripts, and 
 
 [中文说明](README.zh-CN.md)
 
+Each skill is also published independently with its own installer, tests and release:
+
+- [Publication Chart Skill](https://github.com/DongFFF/publication-chart-skill)
+- [Zotero DOCX Reference Workflow](https://github.com/DongFFF/zotero-docx-reference-workflow)
+- [Grant Proposal Workflow](https://github.com/DongFFF/grant-proposal-workflow)
+
 These skills grew out of repeated manuscript revisions and Chinese research grant applications. They turn useful working habits into portable instructions and small tools. All examples are synthetic. Manuscripts, interviews, application forms, library exports, account identifiers, and local runtime bundles are excluded.
 
 ## Skills
