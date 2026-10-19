@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero and Word Reference Workflow"
+  short_description: "Verify literature and maintain Zotero-linked Word citations"
+  default_prompt: "Use $zotero-docx-reference-workflow to verify literature and audit this manuscript's Zotero citations."

@@ -1,0 +1,3 @@
+Pillow>=10
+# Optional PNG preview. Requires native Cairo on some platforms.
+CairoSVG>=2.7

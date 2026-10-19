@@ -1,0 +1,25 @@
+{
+  "synthetic_example": true,
+  "note": "Schema illustration only. No verified scholarly work or real Zotero identity is supplied.",
+  "references": [
+    {
+      "candidate_id": "candidate-01",
+      "title": "Replace with an exact verified title",
+      "creators": [{"given": "Given", "family": "Compound Family"}],
+      "venue": null,
+      "year": null,
+      "date_basis": null,
+      "volume": null,
+      "issue": null,
+      "pages_or_article_number": null,
+      "doi": null,
+      "landing_url": null,
+      "discovery": {"source": "Google Scholar", "query": null, "matched": false, "checked_at": null},
+      "doi_verification": {"status": "pending", "source": null, "fields_compared": []},
+      "abstract": {"text": null, "source": null, "kind": null},
+      "zotero": {"uri": null, "key": null, "collection": null, "readback_verified": false},
+      "supports_claim": null,
+      "ready_for_insertion": false
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grant Proposal and Figure Alignment"
+  short_description: "Connect proposal questions, evidence, outputs and figures"
+  default_prompt: "Use $grant-proposal-workflow to align this proposal's substudies, methods, data, outputs and figures."

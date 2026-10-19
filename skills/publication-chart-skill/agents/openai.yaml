@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publication Figures and Diagrams"
+  short_description: "Build editable research diagrams and publication figures"
+  default_prompt: "Use $publication-chart-skill to create a publication-ready figure with editable source and a checked preview."

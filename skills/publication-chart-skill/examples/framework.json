@@ -1,0 +1,23 @@
+{
+  "title": "Research design and evidence flow",
+  "width": 1600,
+  "rows": [
+    [
+      {"id": "problem", "title": "Problem", "body": "Observed constraints\nDefined research question"},
+      {"id": "evidence", "title": "Evidence", "body": "Documents and cases\nAccessible observations"}
+    ],
+    [
+      {"id": "concept", "title": "Concept development", "body": "Definitions and dimensions\nProposed relationships"},
+      {"id": "test", "title": "Evaluation design", "body": "Methods matched to questions\nCompeting explanations"}
+    ],
+    [
+      {"id": "output", "title": "Research outputs", "body": "Evidence with limitations\nPractical implications and feedback"}
+    ]
+  ],
+  "edges": [
+    ["problem", "concept"],
+    ["evidence", "test"],
+    ["concept", "output"],
+    ["test", "output"]
+  ]
+}
