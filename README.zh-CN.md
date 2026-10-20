@@ -1,10 +1,10 @@
 # 科研工作流 Skills
 
-将论文写作和课题申报中反复使用的绘图、文献管理及图文设计方法整理成可安装的技能包。
+将论文写作和课题申报中反复使用的绘图、文献管理、图文设计及管理学摘要写作方法整理成可安装的技能包。
 
 [English](README.md)
 
-三个技能现已分别发布为独立仓库，各自提供安装、测试和发布包：
+以下三个技能另有独立仓库；新增的管理学摘要写作技能收录在本仓库，并提供单独下载包：
 
 - [学术绘图](https://github.com/DongFFF/publication-chart-skill)
 - [Zotero 文献工作流](https://github.com/DongFFF/zotero-docx-reference-workflow)
@@ -17,6 +17,7 @@
 | `publication-chart-skill` | 研究框架图、机制图、技术路线、统计图与学术表格 | SVG 源文件、同类框等宽、框内居中、测量后适配文字、黑白打印检查 |
 | `zotero-docx-reference-workflow` | 检索、核验、入库、引用插入、修订及文末列表维护 | Scholar 优先、DOI 二次核验、真实 Zotero 身份、Word 字段审计 |
 | `grant-proposal-workflow` | 国社科、地方社科及校级课题等申报书的研究内容与配图 | 先读取当年模板，建立问题—任务—方法—数据—成果对应，再绘制总体图及子研究图 |
+| [`management-abstract-writing`](skills/management-abstract-writing/SKILL.md) | 管理学及企业可持续发展论文的摘要撰写、压缩和局部修改 | 研究必要性—困难与方法适配—数据和发现—对具体管理决策的意义；区分相关、组态、必要性和因果效应 |
 
 技能正文使用英文以便跨语言使用，示例请求和工作流说明提供中文。公开示例均为新编通用案例，未包含未发表论文、访谈材料、申报书正文或个人 Zotero 数据。
 
@@ -35,6 +36,7 @@ python tools/install_skills.py
 请使用 $publication-chart-skill，将这段研究内容绘制为黑白紧凑型 SVG，输出可编辑源图和预览图。
 请使用 $zotero-docx-reference-workflow，检查正文引用字段、隐藏多文献引用和参考文献列表是否一致。
 请使用 $grant-proposal-workflow，梳理各子研究的输入输出和方法数据对应关系，再设计配图。
+请使用 $management-abstract-writing，重写摘要，讲清研究必要性、多维协同的困难、方法为何适用，并把结论落到具体管理者的资源配置决策上。
 ```
 
 ## 本地工具

@@ -7,6 +7,7 @@ This release curates the user's local research skills and abstracts repeatable p
 | Publication figures and tables | Retain the skill name, shorten instructions, preserve SVG geometry and typography preferences, provide a portable generator |
 | Zotero DOCX references | Retain the skill name, remove account/path/proxy constants, replace fragile paragraph counting with field parsing |
 | National, municipal and university grant applications | Extract template-driven question/task/method/data/output mapping into a new skill |
+| Management research abstract revision | Extract problem necessity, method rationale and evidence-to-decision implications into a new skill; include synthetic fragments only |
 | Visio automation | Inventory only; local package provenance needs separate review before redistribution |
 | Other academic/review/analysis skills | Complementary local tools, outside the focus of this release |
 | Bundled document, PDF, presentation and browser plugins | External dependencies; no redistribution |

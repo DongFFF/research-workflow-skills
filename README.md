@@ -1,10 +1,10 @@
 # Research Workflow Skills
 
-Reusable agent skills for research figures, Zotero-linked Word manuscripts, and grant proposal design.
+Reusable agent skills for research figures, Zotero-linked Word manuscripts, grant proposal design, and management research abstracts.
 
 [中文说明](README.zh-CN.md)
 
-Each skill is also published independently with its own installer, tests and release:
+The figure, reference and grant skills are also published independently with their own installers, tests and releases. The abstract skill is included in this collection:
 
 - [Publication Chart Skill](https://github.com/DongFFF/publication-chart-skill)
 - [Zotero DOCX Reference Workflow](https://github.com/DongFFF/zotero-docx-reference-workflow)
@@ -19,6 +19,7 @@ These skills grew out of repeated manuscript revisions and Chinese research gran
 | [`publication-chart-skill`](skills/publication-chart-skill/SKILL.md) | Research frameworks, mechanism diagrams, scientific plots, publication tables, faithful figure translation | Editable SVG generator with measured text fitting |
 | [`zotero-docx-reference-workflow`](skills/zotero-docx-reference-workflow/SKILL.md) | Scholar-first discovery, DOI verification, Zotero ingestion, Word citation maintenance | DOCX field auditor; local Connector client |
 | [`grant-proposal-workflow`](skills/grant-proposal-workflow/SKILL.md) | Align questions, substudies, methods, data, outputs, and figures with a grant template | Research-to-figure mapping template |
+| [`management-abstract-writing`](skills/management-abstract-writing/SKILL.md) | Connect research motivation, method rationale and findings to concrete management decisions | Evidence-to-decision worksheet and synthetic examples |
 
 ## Install
 
@@ -43,6 +44,7 @@ Example requests:
 Use $publication-chart-skill to make a compact grayscale mechanism diagram.
 Use $zotero-docx-reference-workflow to audit this manuscript before refreshing Zotero.
 Use $grant-proposal-workflow to map each substudy to its question, evidence and figure.
+Use $management-abstract-writing to revise this abstract so its findings lead to a specific managerial assessment or decision.
 ```
 
 ## Run The Tools

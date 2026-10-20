@@ -1,0 +1,4 @@
+interface:
+  display_name: "Management Abstract Writing"
+  short_description: "Evidence-led abstracts with concrete managerial meaning"
+  default_prompt: "Use $management-abstract-writing to rewrite this abstract around its research motivation, methodological logic, findings, and concrete managerial implications."
